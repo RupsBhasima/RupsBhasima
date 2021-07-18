@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...HTML & CSS
 - 💞️ I’m looking to collaborate on ... Web Development
-- 📫 How to reach me ... [Facebook](https://www.facebook.com/profile.php?id=100004093360020) , [Instagram](https://www.instagram.com/rupesh_bhasima/?fbclid=IwAR26qkuh87CyUiJ2WKCGhCXBUmHg3J2rW_Ot0y92WswQE4t4I5I28uQA0sQ) , [LinkedIn] (https://www.linkedin.com/in/rupesh-bhasima-3177261a3/).
+- 📫 How to reach me ... [Facebook](https://www.facebook.com/profile.php?id=100004093360020) , [Instagram](https://www.instagram.com/rupesh_bhasima/?fbclid=IwAR26qkuh87CyUiJ2WKCGhCXBUmHg3J2rW_Ot0y92WswQE4t4I5I28uQA0sQ) .
 
 <!---
 RupsBhasima/RupsBhasima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
